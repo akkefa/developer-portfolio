@@ -446,37 +446,6 @@ a.btn:hover {
     color: #666;
 }
 
-.education-section .item {
-    margin-bottom: 45px;
-}
-
-.education-section .item-inner {
-    padding: 0 30px;
-}
-
-.education-section .degree {
-    font-size: 18px;
-    color: #00BCD4;
-    margin-top: 0;
-    margin-bottom: 0px;
-}
-
-.education-section .education-body {
-    font-weight: 500;
-    margin-bottom: 0px;
-    font-size: 16px;
-    font-weight: 300;
-}
-
-.education-section .time {
-    color: #8a8a8a;
-    margin-bottom: 15px;
-}
-
-.education-section .desc {
-    color: #666;
-}
-
 .skills-section .subtitle {
     font-size: 18px;
     color: #8a8a8a;
@@ -853,7 +822,7 @@ a.btn:hover {
         margin-bottom: 15px;
     }
 
-    .education-section .item {
+    .book-section .item {
         padding: 0;
     }
 
@@ -1113,7 +1082,7 @@ a.btn:hover {
 }
 
 .book-section .book-category {
-    font-weight: 400;
+    font-weight: bolder;
     margin-bottom: 3px;
     font-size: 16px;
 }

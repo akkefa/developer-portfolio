@@ -1090,3 +1090,43 @@ a.btn:hover {
 .book-section .b {
     color: #666;
 }
+
+/************ Education section ******/
+.education-section .item {
+    margin-bottom: 45px;
+}
+
+.education-section .item-inner {
+    padding: 0 30px;
+}
+
+.education-section .category {
+    font-size: 18px;
+    color: #00BCD4;
+    margin-top: 0;
+    margin-bottom: 16px;
+}
+
+.education-section .title {
+    font-size: 18px;
+    color: #00BCD4;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.education-section .sub-title {
+    margin-bottom: 0;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.education-section .time {
+    color: #8a8a8a;
+    margin-bottom: 15px;
+}
+
+.education-section .desc {
+    color: #666;
+}

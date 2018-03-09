@@ -1,4 +1,4 @@
-# developer portfolio Single page App
+# Single page developer portfolio website. 
 
 Complete Resume based portfolio for developers.
 

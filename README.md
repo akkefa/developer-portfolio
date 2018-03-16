@@ -57,7 +57,7 @@ Have a bug or a feature request? Please first read the issue guidelines and sear
 
 ## Dependencies
 
-- **Bootstrap**. akkefa Design Blocks is built on Bootstrap 4 library and fully supports it. It uses the Javascript files only for the header design blocks, so if you don't need them, we recommend not to include the Bootstrap JS files in order to reduce your bundle size.
+- **Bootstrap**. Developer portfolio is built on Bootstrap 4 library and fully supports it.
 
 - **Font Awesome**. We're using the amazing Font Awesome library for the social network icons.
 

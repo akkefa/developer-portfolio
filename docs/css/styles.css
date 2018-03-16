@@ -8,7 +8,7 @@
 /* ======= Base ======= */
 body {
     font-family: 'Roboto', sans-serif;
-    color: #666;
+    color: #24292e;
     background: #f5f5f5;
     font-size: 14px;
     -webkit-font-smoothing: antialiased;
@@ -411,7 +411,7 @@ a.btn:hover {
 }
 
 .timeline .job-desc {
-    color: #666;
+    color: #24292e;
 }
 
 .skills-section .subtitle {
@@ -436,7 +436,7 @@ a.btn:hover {
 }
 
 .skills-section .desc {
-    color: #666;
+    color: #24292e;
 }
 
 .skills-section .skill-tag {
@@ -492,7 +492,7 @@ a.btn:hover {
     border-left: none;
     padding: 0;
     font-size: 22px;
-    color: #666;
+    color: #24292e;
     font-weight: 300;
     position: relative;
 }
@@ -620,7 +620,7 @@ Portfolio Section
 }
 
 .portfolio-section .item-inner .content .sub-title {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 600;
     margin-top: 0;
     margin-bottom: 6px;
@@ -628,7 +628,7 @@ Portfolio Section
 }
 
 .portfolio-section .item-inner .content .meta {
-    color: #666;
+    color: #24292e;
     font-size: 14px;
     margin-bottom: 10px;
 }
@@ -636,7 +636,7 @@ Portfolio Section
 .portfolio-section .item-inner .content .action {
     font-size: 14px;
     margin-bottom: 3px;
-    color: #666;
+    color: #24292e;
 }
 
 .portfolio-section .item-inner .content .action span {
@@ -656,7 +656,7 @@ Contact section start here
     padding: 30px;
     padding-left: 190px;
     font-size: 16px;
-    color: #666;
+    color: #24292e;
 }
 
 .contact-section .intro .profile-image {
@@ -1049,7 +1049,7 @@ Contact section start here
 }
 
 .book-section .b {
-    color: #666;
+    color: #24292e;
 }
 
 /************ Education section ******/
@@ -1089,5 +1089,5 @@ Contact section start here
 }
 
 .education-section .desc {
-    color: #666;
+    color: #24292e;
 }

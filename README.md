@@ -98,7 +98,7 @@ If you already have a GitHub profile (obviously)
 
 Voila! Your site should be live at `https://{username}.github.io`
 
-Mine **Developer Portfolio**  [akkefa.com](http://akkefa.com)
+Mine **Developer Portfolio**  [https://akkefa.github.io/developer-portfolio/](https://akkefa.github.io/developer-portfolio/)
 
 ## Copyright and license
 
